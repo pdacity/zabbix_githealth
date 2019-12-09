@@ -10,7 +10,7 @@ zabbix-agent must be installed on the monitored node
 
 * define macros {$GIT_TOKEN} for each host
 * Change <YOU_GITLAB_URL> (http or https) and copy userparameter_githealth.conf into /etc/zabbix/zabbix_agent.d 
-* inport Template 
+* import Template 
 * restart zabbix_agent
 
 ### Files
